@@ -1,0 +1,178 @@
+[
+    {
+        "question_number": 1,
+        "question_type": "HR - Strengths",
+        "question": "What are your greatest strengths?",
+        "expected_answer_keywords": [
+            "Problem-solving",
+            "Teamwork"
+        ]
+    },
+    {
+        "question_number": 2,
+        "question_type": "HR - Introduction",
+        "question": "Tell me about yourself.",
+        "expected_answer_keywords": [
+            "Background",
+            "Education",
+            "Work experience",
+            "Key skills",
+            "Career goals"
+        ]
+    },
+    {
+        "question_number": 3,
+        "question_type": "HR - Weaknesses",
+        "question": "What is your biggest weakness, and how are you working to improve it?",
+        "expected_answer_keywords": [
+            "Self-awareness",
+            "Continuous improvement",
+            "Growth mindset",
+            "Example of progress"
+        ]
+    },
+    {
+        "question_number": 4,
+        "question_type": "HR - Conflict Resolution",
+        "question": "Can you describe a time when you had a conflict with a coworker? How did you handle it?",
+        "expected_answer_keywords": [
+            "Communication",
+            "Problem-solving",
+            "Conflict resolution",
+            "Collaboration",
+            "Professionalism"
+        ]
+    },
+    {
+        "question_number": 5,
+        "question_type": "HR - Leadership",
+        "question": "Have you ever taken on a leadership role? What was the outcome?",
+        "expected_answer_keywords": [
+            "Leadership",
+            "Decision-making",
+            "Teamwork",
+            "Project management",
+            "Results"
+        ]
+    },
+    {
+        "question_number": 6,
+        "question_type": "HR - Work Style",
+        "question": "Do you prefer working independently or as part of a team?",
+        "expected_answer_keywords": [
+            "Flexibility",
+            "Collaboration",
+            "Self-motivation",
+            "Team player",
+            "Work preference"
+        ]
+    },
+    {
+        "question_number": 7,
+        "question_type": "HR - Career Goals",
+        "question": "Where do you see yourself in five years?",
+        "expected_answer_keywords": [
+            "Career growth",
+            "Skill development",
+            "Leadership",
+            "Long-term vision",
+            "Goals"
+        ]
+    },
+    {
+        "question_number": 8,
+        "question_type": "HR - Handling Pressure",
+        "question": "How do you handle stressful situations at work?",
+        "expected_answer_keywords": [
+            "Stress management",
+            "Prioritization",
+            "Problem-solving",
+            "Time management",
+            "Composure"
+        ]
+    },
+    {
+        "question_number": 9,
+        "question_type": "HR - Decision Making",
+        "question": "Can you give an example of a difficult decision you had to make at work?",
+        "expected_answer_keywords": [
+            "Decision-making",
+            "Critical thinking",
+            "Problem-solving",
+            "Professionalism",
+            "Results"
+        ]
+    },
+    {
+        "question_number": 10,
+        "question_type": "HR - Motivation",
+        "question": "What motivates you to do your best work?",
+        "expected_answer_keywords": [
+            "Passion",
+            "Challenges",
+            "Learning",
+            "Recognition",
+            "Work environment"
+        ]
+    },
+    {
+        "question_number": 11,
+        "question_type": "HR - Company Fit",
+        "question": "Why do you want to work at our company?",
+        "expected_answer_keywords": [
+            "Company values",
+            "Career growth",
+            "Work culture",
+            "Skill alignment",
+            "Passion for role"
+        ]
+    },
+    {
+        "question_number": 12,
+        "question_type": "HR - Work Ethics",
+        "question": "How do you ensure you meet deadlines and maintain quality in your work?",
+        "expected_answer_keywords": [
+            "Time management",
+            "Organization",
+            "Prioritization",
+            "Work ethic",
+            "Quality assurance"
+        ]
+    },
+    {
+        "question_number": 13,
+        "question_type": "HR - Adaptability",
+        "question": "Tell me about a time when you had to quickly adapt to a new situation at work.",
+        "expected_answer_keywords": [
+            "Adaptability",
+            "Quick learning",
+            "Problem-solving",
+            "Flexibility",
+            "Resilience"
+        ]
+    },
+    {
+        "question_number": 14,
+        "question_type": "HR - Work Challenges",
+        "question": "Describe a challenging project you worked on. How did you handle it?",
+        "expected_answer_keywords": [
+            "Challenges",
+            "Problem-solving",
+            "Collaboration",
+            "Leadership",
+            "Lessons learned"
+        ]
+    },
+    {
+        "question_number": 15,
+        "question_type": "HR - Closing",
+        "question": "Do you have any questions for us?",
+        "expected_answer_keywords": [
+            "Company culture",
+            "Career growth",
+            "Team structure",
+            "Expectations",
+            "Next steps"
+        ]
+    }
+]
